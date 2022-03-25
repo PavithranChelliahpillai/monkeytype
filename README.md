@@ -3,10 +3,10 @@ Node.JS web scraping with the use of Puppeteer library. <br />
 
 ## v2 Upgrades
 <ul>
-  <li>`await` is removed to increase performance (massive difference)</li>
-  <li>Without the use of `await`, Puppeteer doesn't wait small portions of seconds between keystrokes</li>
+  <li>"await" is removed to increase performance (massive difference)</li>
+  <li>Without the use of "await", Puppeteer doesn't wait small portions of seconds between keystrokes</li>
   <li>Officially hit INFINITE WPM and raw of at max 3500WPM</li>
-  <li>Introduced scraping of `.word.active`, allowing the program to be used in TIME tests</li>
+  <li>Introduced scraping of ".word.active", allowing the program to be used in TIME tests</li>
 </ul>
 
 ## Basic process
